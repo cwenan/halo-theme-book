@@ -1,2 +1,2 @@
 ### halo-theme-book
-this is a theme for halo blog
+this is a theme for halo blog now
